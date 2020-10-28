@@ -1,1 +1,1 @@
-print("DONE")
+prin("DONE")
